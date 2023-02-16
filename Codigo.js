@@ -10,3 +10,8 @@ function sumas (x)
 {return x + 5;}
 var suma = sumas (3)
 console.log(suma)
+// Vamos a crear una funcion para ver si mi commit funciona a la perfeccion
+var operaciones = function suma (x){
+    return x + 20
+;};
+console.log (operaciones(10));
